@@ -1,0 +1,651 @@
+1. ĐỘ TƯƠNG ĐƯƠNG: 1.0
+	Harry Potter Và Hòn Đá Phù Thủy
+	Harry Potter and the Sorcerer's Stone
+2. ĐỘ TƯƠNG ĐƯƠNG: 0.68
+	Chương 13: NICOLAS FLAMEL
+	NICOLAS FLAMEL 
+3. ĐỘ TƯƠNG ĐƯƠNG: 0.66
+	Ông Dursley đứng sững lại, chết lặng. Ông ngợp trong nỗi sợ hãi. Ông ngoái nhìn đám người đang thì thào như muốn nói gì với họ, nhưng rồi lại thôi.
+	　　Mr. Dursley stopped dead. Fear flooded him. He looked back at the whisperers as if he wanted to say something to them, but thought better of it. 
+4. ĐỘ TƯƠNG ĐƯƠNG: 0.72
+	Và gã đàn ông ôm ngang người ông Dursley một cách thân tình rồi bỏ đi.
+	　　And the old man hugged Mr. Dursley around the middle and walked off. 
+5. ĐỘ TƯƠNG ĐƯƠNG: 0.68
+	- Ờ… anh chỉ nghĩ… có thể… có chuyện gì đó dính dáng tới dì nó… em biết đó… dì nó…
+	　　"Well, I just thought... maybe... it was something to do with... you know... her crowd." 
+6. ĐỘ TƯƠNG ĐƯƠNG: 0.67
+	Ấy là lúc một ông già xuất hiện ở góc đường mà con mèo đang ngóng về. Cụ xuất hiện thình lình và lặng lẽ như thể từ mặt đất chui lên. Đuôi con mèo nhẹ ve vẩy và mắt nó nhíu lại.
+	　　A man appeared on the corner the cat had been watching, appeared so suddenly and silently you'd have thought he'd just popped out of the ground. The cat's tail twitched and its eyes narrowed. 
+7. ĐỘ TƯƠNG ĐƯƠNG: 0.68
+	- Làm sao ông biết con mèo đấy là tôi?
+	　　"How did you know it was me?" she asked. 
+8. ĐỘ TƯƠNG ĐƯƠNG: 0.81
+	- Thưa bà giáo sư yêu quý của tôi, hồi nào tới giờ tôi chưa từng thấy một con mèo nào ngồi cứng đờ như thế.
+	　　"My dear Professor, I 've never seen a cat sit so stiffly." 
+9. ĐỘ TƯƠNG ĐƯƠNG: 0.73
+	Giáo sư McGonagall nói:
+	　　Professor McGonagall sniffed angrily. 
+10. ĐỘ TƯƠNG ĐƯƠNG: 0.86
+	Giáo sư McGonagall nói:
+	　　Professor McGonagall 
+11. ĐỘ TƯƠNG ĐƯƠNG: 0.68
+	Giáo sư McGonagall vẫn cáu kỉnh: 
+	　　Professor McGonagall sniffed angrily. 
+12. ĐỘ TƯƠNG ĐƯƠNG: 0.68
+	Giáo sư McGonagall vẫn cáu kỉnh: 
+	　　Professor McGonagall 
+13. ĐỘ TƯƠNG ĐƯƠNG: 0.67
+	Giáo sư McGonagall nói, giọng nữa lo lắng nữa ngưỡng mộ:
+	　　Professor McGonagall sniffed angrily. 
+14. ĐỘ TƯƠNG ĐƯƠNG: 0.81
+	Cụ Dumbledore cúi đầu. Giáo sư McGonagall há hốc miệng, ngẹn ngào:
+	　　Dumbledore bowed his head. Professor McGonagall gasped. 
+15. ĐỘ TƯƠNG ĐƯƠNG: 0.67
+	- Vợ chồng Potter… Tôi không thể tin được… Tôi không muốn tin… Ôi, ông Dumbledore…
+	　　"Lily and James... I can't believe it... I didn't want to believe it... Oh, Albus..." 
+16. ĐỘ TƯƠNG ĐƯƠNG: 0.77
+	Cụ Dumbledore buồn bã gật đầu. Giáo sư McGonagall ấp úng:
+	　　Dumbledore bowed his head. Professor McGonagall gasped. 
+17. ĐỘ TƯƠNG ĐƯƠNG: 0.68
+	Giáo sư McGonagall xác nhận và nói tiếp:
+	　　Professor McGonagall sniffed angrily. 
+18. ĐỘ TƯƠNG ĐƯƠNG: 0.67
+	Giáo sư McGonagall xác nhận và nói tiếp:
+	　　Professor McGonagall turned to Harry and Ron. 
+19. ĐỘ TƯƠNG ĐƯƠNG: 0.75
+	- Hagrid đang mang nó đến.
+	　　"Hagrid's bringing him." 
+20. ĐỘ TƯƠNG ĐƯƠNG: 0.66
+	- Thưa ngài không ạ. Ngôi nhà hầu như tan hoang, nhưng tôi đã kịp đem nó ra trước khi dân Muggle bắt đầu lăng xăng chung quanh. Đang bay tới đây thì nó lăn ra ngủ.
+	　　"No, sir -- house was almost destroyed, but I got him out all right before the Muggles started swarmin' around. He fell asleep as we was flyin' over Bristol." 
+21. ĐỘ TƯƠNG ĐƯƠNG: 0.68
+	Giáo sư McGonagall vỗ về:
+	　　Professor McGonagall sniffed angrily. 
+22. ĐỘ TƯƠNG ĐƯƠNG: 0.82
+	Giáo sư McGonagall vỗ về:
+	　　Professor McGonagall 
+23. ĐỘ TƯƠNG ĐƯƠNG: 0.67
+	- Tôi mong sớm gặp lại bà, giáo sư McGonagall.
+	　　"Fancy seeing you here, Professor McGonagall." 
+24. ĐỘ TƯƠNG ĐƯƠNG: 0.72
+	Harry giật mình thức giấc. Dì nó lại đập cửa.
+	　　Harry woke with a start. His aunt rapped on the door again. 
+25. ĐỘ TƯƠNG ĐƯƠNG: 0.66
+	− Mau, ra đây tao cần mày trông chừng món thịt muối. Mày liệu hồn nếu để nó cháy. Tao muốn mọi thứ phải thật hoàn hảo vào ngày sinh nhật của Dudley.
+	　　"Well, get a move on, I want you to look after the bacon. And don't you dare let it burn, I want everything perfect on Duddy's birthday." 
+26. ĐỘ TƯƠNG ĐƯƠNG: 0.66
+	Dudley suy nghĩ một lát. Trông nó suy nghĩ thật là vất vả. Cuối cùng nó nói chậm rãi:
+	　　Dudley thought for a moment. It looked like hard work. Finally he said slowly, "So I'll have thirty ... thirty..." 
+27. ĐỘ TƯƠNG ĐƯƠNG: 0.66
+	Dudley nặng nề ngồi xuống và chụp lấy món quà gần nhất:
+	　　"Oh." Dudley sat down heavily and grabbed the nearest parcel. "All right then." 
+28. ĐỘ TƯƠNG ĐƯƠNG: 0.67
+	Harry thưa:
+	　　Harry stared. 
+29. ĐỘ TƯƠNG ĐƯƠNG: 0.67
+	Harry thưa:
+	　　Harry stared. 
+30. ĐỘ TƯƠNG ĐƯƠNG: 0.67
+	Nhưng dượng Vernon không tin. Từ hồi nào tới giờ chưa từng có ai tin Harry cả.
+	　　But Uncle Vernon didn't believe him. No one ever did. 
+31. ĐỘ TƯƠNG ĐƯƠNG: 0.7
+	Nó nháy mắt.
+	　　It winked. 
+32. ĐỘ TƯƠNG ĐƯƠNG: 0.72
+	Harry nhìn con rắn chằm chằm. Rồi nó liếc nhanh chung quanh xem có ai đang ngó chừng không. Không có, Harry bèn nhìn con rắn và nháy mắt với nó.
+	　　Harry stared. Then he looked quickly around to see if anyone was watching. They weren't. He looked back at the snake and winked, too. 
+33. ĐỘ TƯƠNG ĐƯƠNG: 0.69
+	Con rắn ngoắc cái đuôi chỉ vào tấm bảng cạnh tấm kính. Harry đọc:
+	　　The snake jabbed its tail at a little sign next to the glass. Harry peered at it. 
+34. ĐỘ TƯƠNG ĐƯƠNG: 0.77
+	Boa constrictor, Brazin.
+	　　Boa Constrictor, Brazil. 
+35. ĐỘ TƯƠNG ĐƯƠNG: 0.68
+	Ở trường Harry không có bạn bè. Mọi người đều biết băng của Dudley rất ghét cái thằng Harry Potter bận đồ kính luộm thà luộm thuộm và đeo cặp kính gãy gọng bể tròng. Họ không muốm làm mít lòng băng của Dudley.
+	　　At school, Harry had no one. Everybody knew that Dudley's gang hated that odd Harry Potter in his baggy old clothes and broken glasses, and nobody liked to disagree with Dudley's gang.
+36. ĐỘ TƯƠNG ĐƯƠNG: 0.73
+	Harry nhìn vô chậu lần nữa. Nó nói:
+	　　Harry looked in the bowl again. 
+37. ĐỘ TƯƠNG ĐƯƠNG: 0.72
+	− Đập cho nó một gậy Smelting coi, Dudley.
+	　　"Poke him with your Smelting stick, Dudley." 
+38. ĐỘ TƯƠNG ĐƯƠNG: 0.8
+	Ông Harry Potter
+	　　"Harry Potter!" 
+39. ĐỘ TƯƠNG ĐƯƠNG: 0.73
+	Ông Harry Potter
+	　　The Harry Potter?" 
+40. ĐỘ TƯƠNG ĐƯƠNG: 0.9
+	4 Privet Drive
+	　　4 Privet Drive 
+41. ĐỘ TƯƠNG ĐƯƠNG: 0.69
+	Phong bì dày và nặng, làm bằng giấy da vàng nhạc, và địa chỉ thì được viết bằng mực xanh biếc. Thư không dán tem.
+	　　The envelope was thick and heavy, made of yellowish parchment, and the address was written in emerald-green ink. There was no stamp. 
+42. ĐỘ TƯƠNG ĐƯƠNG: 0.7
+	Harry trở lại nhà bếp, vẫn vẫn đăm đăm nhìn lá thư gởi cho mình. Nó đưa ông Dursley cái thư đòi tiền nước và tấm bưu thiếp, rồi nó ngồi xuống, từ từ mở cái phong thư màu vàng.
+	　　Harry went back to the kitchen, still staring at his letter. He handed Uncle Vernon the bill and the postcard, sat down, and slowly began to open the yellow envelope. 
+43. ĐỘ TƯƠNG ĐƯƠNG: 0.67
+	Harry tức tối nói:
+	　　Harry stared. 
+44. ĐỘ TƯƠNG ĐƯƠNG: 0.67
+	Harry tức tối nói:
+	　　Harry stared. 
+45. ĐỘ TƯƠNG ĐƯƠNG: 0.68
+	Harry thở ra và duỗi người nằm dài trên giường. Ngày hôm qua nó sẵn sàng đánh đổi bất cứ thứ gì để được ở trong căn phòng này. Hôm nay nó thà ở lại dưới gầm cầu thang với lá thư của nó, còn hơn được ở trên này mà không có lá thư.
+	　　Harry sighed and stretched out on the bed. Yesterday he'd have given anything to be up here. Today he'd rather be back in his cupboard with that letter than up here without it. 
+46. ĐỘ TƯƠNG ĐƯƠNG: 0.8
+	Ông Harry Potter
+	　　"Harry Potter!" 
+47. ĐỘ TƯƠNG ĐƯƠNG: 0.73
+	Ông Harry Potter
+	　　The Harry Potter?" 
+48. ĐỘ TƯƠNG ĐƯƠNG: 0.82
+	Phòng 17
+	　　Room 17 
+49. ĐỘ TƯƠNG ĐƯƠNG: 0.86
+	Xứ Cokeworth
+	　　Cokeworth 
+50. ĐỘ TƯƠNG ĐƯƠNG: 0.7
+	Bên trong chòi thật là khủng khiếp: nồng nặc mùi rong biển, và gió thì gào thét luồn qua những chỗ hở trên vách ván, bếp lửa ẩm ướt và trống trơ. Cái chòi được chia làm hai gian.
+	　　The inside was horrible; it smelled strongly of seaweed, the wind whistled through the gaps in the wooden walls, and the fireplace was damp and empty. There were only two rooms. 
+51. ĐỘ TƯƠNG ĐƯƠNG: 0.66
+	Còn một phút nữa và Harry sẽ mười một tuổi. Ba mươi giây… hai mươi giây… mười… chín… Hay là nó đánh thức Dudley, chỉ để chọc tức nó chơi. Ba giây… hai… một…
+	　　One minute to go and he'd be eleven. Thirty seconds... twenty ... ten... nine -- maybe he'd wake Dudley up, just to annoy him -- three... two... one... 
+52. ĐỘ TƯƠNG ĐƯƠNG: 0.67
+	BÙM
+	　　BOOM. 
+53. ĐỘ TƯƠNG ĐƯƠNG: 0.67
+	Cả cái chòi bị chấn động run lên và Harry ngồi bật dậy, đăm đăm nhìn ra cửa. Có ai đó ở bên ngoài đang đập cửa đòi vào.
+	　　The whole shack shivered and Harry sat bolt upright, staring at the door. Someone was outside, knocking to come in.
+54. ĐỘ TƯƠNG ĐƯƠNG: 0.65
+	Cánh cửa bị đấm mạnh đến nỗi nó long cả bản lề, kêu lên một tiếng điếc tai khi đổ sập xuống sàn.
+	　　The door was hit with such force that it swung clean off its hinges and with a deafening crash landed flat on the floor. 
+55. ĐỘ TƯƠNG ĐƯƠNG: 0.69
+	Harry ngước nhìn người khổng lồ. Nó muốn nói cám ơn, nhưng mà lời lẽ lạc đâu mất trên quãng đường từ đáy lòng lên tới miệng. Và thay vì hai tiếng “cám ơn”, thì là câu hỏi:
+	　　Harry looked up at the giant. He meant to say thank you, but the words got lost on the way to his mouth, and what he said instead was, "Who are you?" 
+56. ĐỘ TƯƠNG ĐƯƠNG: 0.76
+	- Ờ, ta chưa tự giới thiệu. Ta là Rubeus Hagrid, người giữ khóa và gác sân ở Hogwarts.
+	　　"True, I haven't introduced meself. Rubeus Hagrid, Keeper of Keys and Grounds at Hogwarts." 
+57. ĐỘ TƯƠNG ĐƯƠNG: 0.67
+	Lão khổng lồ xuýt xoa:
+	　　The giant chuckled. 
+58. ĐỘ TƯƠNG ĐƯƠNG: 0.88
+	Lão khổng lồ hớp một ngụm trà rồi chùi miệng bằng mu bàn tay. Lão nói:
+	　　The giant took a gulp of tea and wiped his mouth with the back of his hand. 
+59. ĐỘ TƯƠNG ĐƯƠNG: 0.76
+	- Thế giới nào?
+	　　"What world?" 
+60. ĐỘ TƯƠNG ĐƯƠNG: 0.67
+	Đột nhiên ông Dursley tìm lại được tiếng nói của mình. Ông ra lệnh:
+	　　Uncle Vernon suddenly found his voice. 
+61. ĐỘ TƯƠNG ĐƯƠNG: 0.69
+	Gởi Harry Potter
+	　　"Harry Potter!" 
+62. ĐỘ TƯƠNG ĐƯƠNG: 0.74
+	Gởi Harry Potter
+	　　The Harry Potter?" 
+63. ĐỘ TƯƠNG ĐƯƠNG: 0.76
+	Kính gởi cậu Harry Potter,
+	　　Dear Mr. Potter, 
+64. ĐỘ TƯƠNG ĐƯƠNG: 0.67
+	Kính gởi cậu Harry Potter,
+	　　"Harry Potter!" 
+65. ĐỘ TƯƠNG ĐƯƠNG: 0.72
+	Kính gởi cậu Harry Potter,
+	　　The Harry Potter?" 
+66. ĐỘ TƯƠNG ĐƯƠNG: 0.69
+	Kính gởi cậu Harry Potter,
+	　　Dear Harry, 
+67. ĐỘ TƯƠNG ĐƯƠNG: 0.75
+	Chúng tôi làm hân hạnh thông báo cho cậu biết rằng cậu đã trúng tuyển vào học viện pháp tuật và ma thuật Hogwarts. Xin vui lòng xem danh sách đính kèm về toàn bộ sách và trang thiết bị vần thiết.
+	　　We are pleased to inform you that you have been accepted at Hogwarts School of Witchcraft and Wizardry. Please find enclosed a list of all necessary books and equipment. 
+68. ĐỘ TƯƠNG ĐƯƠNG: 0.75
+	Khóa học bắt đầu vào ngày 1 tháng 9. Chúng tôi đợi cú của cậu chậm nhất là ngày 31 tháng 7.
+	　　Term begins on September 1. We await your owl by no later than July 31. Yours sincerely, 
+69. ĐỘ TƯƠNG ĐƯƠNG: 0.67
+	Giáo sư McGonagall
+	　　Professor McGonagall sniffed angrily. 
+70. ĐỘ TƯƠNG ĐƯƠNG: 0.93
+	Giáo sư McGonagall
+	　　Professor McGonagall 
+71. ĐỘ TƯƠNG ĐƯƠNG: 0.93
+	Kính thưa giáo sư Dumbledore 
+	　　Dear Professor Dumbledore, 
+72. ĐỘ TƯƠNG ĐƯƠNG: 0.69
+	Kính thưa giáo sư Dumbledore 
+	　　"You let Professor Dumbledore in..." 
+73. ĐỘ TƯƠNG ĐƯƠNG: 0.8
+	Hagrid
+	　　Hagrid 
+74. ĐỘ TƯƠNG ĐƯƠNG: 0.8
+	Hagrid
+	　　Hagrid 
+75. ĐỘ TƯƠNG ĐƯƠNG: 0.67
+	Hagrid
+	　　"Hagrid!" 
+76. ĐỘ TƯƠNG ĐƯƠNG: 0.67
+	Lão Hagrid gầm giừ:
+	　　Hagrid grunted. 
+77. ĐỘ TƯƠNG ĐƯƠNG: 0.78
+	Lão quẳng một cái nhìn căm ghét vào ông bà Dursley.
+	　　He threw a dirty look at the Dursleys. 
+78. ĐỘ TƯƠNG ĐƯƠNG: 0.7
+	- Tại sao không?
+	　　"Why not?" 
+79. ĐỘ TƯƠNG ĐƯƠNG: 0.7
+	- Tại sao không?
+	　　"Why not?" 
+80. ĐỘ TƯƠNG ĐƯƠNG: 0.69
+	Lão Hagrid bỗng rút ra một cái khăn tay nhăn nheo dơ hầy để hỉ mũi nghe rột một cái thật to. Lão nói:
+	　　Hagrid suddenly pulled out a very dirty, spotted handkerchief and blew his nose with a sound like a foghorn. 
+81. ĐỘ TƯƠNG ĐƯƠNG: 0.68
+	Lão Hagrid buồn bã nhìn Harry.
+	　　Hagrid grinned at Harry. 
+82. ĐỘ TƯƠNG ĐƯƠNG: 0.82
+	Lão Hagrid ngó xuống cây dù của lão, vuốt râu rầu rĩ nói:
+	　　Hagrid looked down at his umbrella and stroked his beard. 
+83. ĐỘ TƯƠNG ĐƯƠNG: 0.65
+	- Tại sao bác không được phép làm phép thuật?
+	　　"Why aren't you supposed to do magic?" asked Harry. 
+84. ĐỘ TƯƠNG ĐƯƠNG: 0.79
+	Lão cởi chiếc áo khoát đen dày thảy cho Harry:
+	　　He took off his thick black coat and threw it to Harry. 
+85. ĐỘ TƯƠNG ĐƯƠNG: 0.67
+	- Đừng làm vậy!
+	　　"Don't do that." 
+86. ĐỘ TƯƠNG ĐƯƠNG: 0.68
+	Harry đếm năm Knuts, con cú giơ chân ra để Harry bỏ mấy đồng tiền xu vô một cái túi nhỏ cột bên chân. Rồi nó bay qua cửa sổ đi mất. 
+	　　Harry counted out five little bronze coins, and the owl held out his leg so Harry could put the money into a small leather pouch tied to it. Then he flew off through the open window. 
+87. ĐỘ TƯƠNG ĐƯƠNG: 0.8
+	Lão Hagrid ngáp ầm ĩ, ngồi dậy, vươn vai.
+	　　Hagrid yawned loudly, sat up, and stretched. 
+88. ĐỘ TƯƠNG ĐƯƠNG: 0.82
+	- Nhưng nếu cái nhà đã bị tiêu hủy…
+	　　"But if their house was destroyed --" 
+89. ĐỘ TƯƠNG ĐƯƠNG: 0.75
+	Harry làm rớt miếng xúc xích đang cầm, miện há hốc ra:
+	　　Harry dropped the bit of sausage he was holding. 
+90. ĐỘ TƯƠNG ĐƯƠNG: 0.74
+	Hai người xuống xuồng, nhưng Harry vẫn nhìn chòng chọc lão Hagrid, cố tưởng tượng xem con người khổng lồ này bay ra làm sao?
+	　　They settled down in the boat, Harry still staring at Hagrid, trying to imagine him flying. 
+91. ĐỘ TƯƠNG ĐƯƠNG: 0.68
+	Lún này chiếc xuồng đã nhẹ nhàng đụng vào kè đá cảng. Lão Hagrid xếp lại tờ báo và cả hai bước theo những bậc đá mà lên đến mặt đường.
+	　　At this moment the boat bumped gently into the harbor wall. Hagrid folded up his newspaper, and they clambered up the stone steps onto the street. 
+92. ĐỘ TƯƠNG ĐƯƠNG: 0.82
+	ĐỒNG PHỤC
+	　　UNIFORM 
+93. ĐỘ TƯƠNG ĐƯƠNG: 0.67
+	Học sinh năm thứ nhất cần:
+	　　First-year students will require: 
+94. ĐỘ TƯƠNG ĐƯƠNG: 0.68
+	3. Một bộ găng tay bảo hộ (bằng da rồng hay tương tự).
+	　　3. One pair of protective gloves (dragon hide or similar) 
+95. ĐỘ TƯƠNG ĐƯƠNG: 0.74
+	4. Một áo trùm mùa đông (đen, thắt lưng bạc).
+	　　4. One winter cloak (black, silver fastenings) 
+96. ĐỘ TƯƠNG ĐƯƠNG: 0.66
+	Tất cả các học sin đều phải có các sách kiệt kê sau đây:
+	　　All students should have a copy of each of the following: 
+97. ĐỘ TƯƠNG ĐƯƠNG: 0.75
+	- Lịch sử pháp thuật của Bathilda Bagshot.
+	　　A History of Magic by Bathilda Bagshot 
+98. ĐỘ TƯƠNG ĐƯƠNG: 0.66
+	- Quái vật kỳ thú và nơi tìm ra chúng của Newt Scamander.
+	　　Fantastic Beasts and Where to Find Them by Newt Scamander 
+99. ĐỘ TƯƠNG ĐƯƠNG: 0.91
+	TRANG THIẾT BỊ KHÁC
+	　　OTHER EQUIPMENT 
+100. ĐỘ TƯƠNG ĐƯƠNG: 0.84
+	Học sinh cũng có thể đem theo một con cú hoặc một con mèo hoặc một con cóc.
+	　　Students may also bring an owl OR a cat OR a toad 
+101. ĐỘ TƯƠNG ĐƯƠNG: 0.67
+	Harry nói:
+	　　Harry stared. 
+102. ĐỘ TƯƠNG ĐƯƠNG: 0.67
+	Harry nói:
+	　　Harry stared. 
+103. ĐỘ TƯƠNG ĐƯƠNG: 0.83
+	- Chào giáo sư Quirrell. Harry, giáo sư Quirrell sẽ là một trong những người thầy dạy con ở trường Hogwarts.
+	　　"Professor Quirrell!" said Hagrid. "Harry, Professor Quirrell will be one of your teachers at Hogwarts." 
+104. ĐỘ TƯƠNG ĐƯƠNG: 0.82
+	Doris Crockfort bắt tay Harry lần cuối cùng, và lão Hagrid dắt nó qua quầy rượu vào một cái sân nhỏ có tường bao bọc. Ở đó không có gì cả ngoại trừ một cái thùng rác và mấy đám cỏ dại. 
+	　　Doris Crockford shook Harry's hand one last time, and Hagrid led them through the bar and out into a small, walled courtyard, where there was nothing but a trash can and a few weeds. 
+105. ĐỘ TƯƠNG ĐƯƠNG: 0.9
+	Lão Hagrid nhe răng cười với Harry:
+	　　Hagrid grinned at Harry. 
+106. ĐỘ TƯƠNG ĐƯƠNG: 0.67
+	Lão Hagrid ưỡn ngực ra vẻ quan trọng nói thêm:
+	　　Hagrid 
+107. ĐỘ TƯƠNG ĐƯƠNG: 0.67
+	Lão Hagrid ưỡn ngực ra vẻ quan trọng nói thêm:
+	　　Hagrid 
+108. ĐỘ TƯƠNG ĐƯƠNG: 0.67
+	- Đi thôi, trở lại cái xe thổ tả này, và đừng có mà nói chuyện với ta trên đường về, ta từ giờ ngậm chặc miệng là thượng sách.
+	　　"Come on, back in this infernal cart, and don't talk to me on the way back, it's best if I keep me mouth shut," said Hagrid. 
+109. ĐỘ TƯƠNG ĐƯƠNG: 0.67
+	- Bác Hagrid, Quidditch là cái gì?
+	　　"So what is Quidditch?" 
+110. ĐỘ TƯƠNG ĐƯƠNG: 0.75
+	- Vậy thì Quidditch là cái gì?
+	　　"So what is Quidditch?" 
+111. ĐỘ TƯƠNG ĐƯƠNG: 0.69
+	Lão Hagrid gật gù:
+	　　Hagrid grunted. 
+112. ĐỘ TƯƠNG ĐƯƠNG: 0.73
+	Lão Hagrid gật gù:
+	　　Harry nodded. 
+113. ĐỘ TƯƠNG ĐƯƠNG: 0.77
+	Ra khỏi tiệm Apothecary, lão Hagrid kiểm lại danh sách đồ cần có của Harry.
+	　　Outside the Apothecary, Hagrid checked Harry's list again. 
+114. ĐỘ TƯƠNG ĐƯƠNG: 0.69
+	- Bác không cần phải…
+	　　"You don't have to --" 
+115. ĐỘ TƯƠNG ĐƯƠNG: 0.77
+	Cụ lắc đầu, và rồi, may cho Harry, cụ quay sang lảo Hagrid.
+	　　He shook his head and then, to Harry's relief, spotted Hagrid. 
+116. ĐỘ TƯƠNG ĐƯƠNG: 0.68
+	Harry bỗng nhận ra cái thước đo, đang đo khoảnh cách hai lỗ mũi của nó, tự động làm công việc một mình. Cụ Ollivanders đã bỏ đi tới chỗ mấy cái kệ, lấy xuống vài cái hộp.
+	　　Harry suddenly realized that the tape measure, which was measuring between his nostrils, was doing this on its own. Mr. Ollivander was flitting around the shelves, taking down boxes. 
+117. ĐỘ TƯƠNG ĐƯƠNG: 0.68
+	Cụ đặt cây đũa của Harry trở vào cái hộp, gói trong một tờ giấy nâu, vẫn lẩm nhẩm:
+	　　He put Harry's wand back into its box and wrapped it in brown paper, still muttering, "Curious... curious.. 
+118. ĐỘ TƯƠNG ĐƯƠNG: 0.79
+	Harry rùng mình. Nó không chắc là nó thích cụ Ollivanders lắm. Nó trả cụ bảy đồng Galleons vàng để mua cây đũa, và cụ Ollivanders cúi chào tiễn hai bác cháu ra tận cửa.
+	　　Harry shivered. He wasn't sure he liked Mr. Ollivander too much. He paid seven gold Galleons for his wand, and Mr. Ollivander bowed them from his shop. 
+119. ĐỘ TƯƠNG ĐƯƠNG: 0.66
+	Chuyến tàu điện ngầm chuyển bánh ra khỏi ga. Harry muốn được nhìn lão Hagrid cho đến khi lão khuất hẳn tầm nhìn. Nó đứng ịn mũi vào cửa sổ toa tàu nhìn lại, nhưng chỉ chớp mắt một cái là lão Hagrid đã biến mất rồi.
+	　　The train pulled out of the station. Harry wanted to watch Hagrid until he was out of sight; he rose in his seat and pressed his nose against the window, but he blinked and Hagrid had gone.
+120. ĐỘ TƯƠNG ĐƯƠNG: 0.71
+	- Dạ… con cần phải đế nhà ga Ngã Tư Vua vào ngày mai để… để… đến trường Hogwarts.
+	　　"Er -- I need to be at King's Cross tomorrow to -- to go to Hogwarts." 
+121. ĐỘ TƯƠNG ĐƯƠNG: 0.89
+	Harry không nói gì.
+	　　Harry didn't say anything. 
+122. ĐỘ TƯƠNG ĐƯƠNG: 0.67
+	- Mà cái trường đó ở đâu?
+	　　"Where is this school, anyway?" 
+123. ĐỘ TƯƠNG ĐƯƠNG: 0.65
+	- Mai dượng đi Luân Đôn có chuyện gì?
+	　　"What's going on?" 
+124. ĐỘ TƯƠNG ĐƯƠNG: 0.81
+	Đúng lúc đó có một nhóm người đi tới sau lưng nó và nó nghe lóm được vài ba câu họ đang nói.
+	　　At that moment a group of people passed just behind him and he caught a few words of what they were saying. 
+125. ĐỘ TƯƠNG ĐƯƠNG: 0.69
+	Harry quay phắt lại. Người nói là một người đàn bà béo múp míp. Bà đang trò chuyện với bốn cậu con trai, tất cả đều có tóc đỏ hoe. Mỗi đứa cũng đẩy trước mặt một cái rương giống như cái của Harry – và họ đều có cú.
+	　　Harry swung round. The speaker was a plump woman who was talking to four boys, all with flaming red hair. Each of them was pushing a trunk like Harry's in front of him -- and they had an owl. 
+126. ĐỘ TƯƠNG ĐƯƠNG: 0.65
+	- Con không phải là Fred, con là George. Thật tình, thưa bà, bà tự xưng là mẹ của chúng con, vậy bà không thể phân biệt con là George sao?
+	　　"I'm not Fred, I'm George," said the boy. "Honestly, woman, you call yourself our mother? CarA you tell I'm George?" 
+127. ĐỘ TƯƠNG ĐƯƠNG: 0.68
+	- Xin lỗi con, George à.
+	　　"Sorry, George, dear." 
+128. ĐỘ TƯƠNG ĐƯƠNG: 0.67
+	- Cám ơn nha!
+	　　"Thank you." 
+129. ĐỘ TƯƠNG ĐƯƠNG: 0.74
+	- Cám ơn nha!
+	　　"Thank you!" 
+130. ĐỘ TƯƠNG ĐƯƠNG: 0.73
+	- Harry Potter.
+	　　"Harry Potter!" 
+131. ĐỘ TƯƠNG ĐƯƠNG: 0.72
+	- Harry Potter.
+	　　The Harry Potter?" 
+132. ĐỘ TƯƠNG ĐƯƠNG: 0.73
+	- Fred ơi? George à? Các con có trong đó không?
+	　　"Fred? George? Are you there?" 
+133. ĐỘ TƯƠNG ĐƯƠNG: 0.66
+	- Ron, có cái gì dính trên mũi con kìa.
+	　　"Ron, you've got something on your nose." 
+134. ĐỘ TƯƠNG ĐƯƠNG: 0.76
+	Bà hôn lên má Percy tiễn anh đi. Rồi bà quay lại hai cậu song sinh dặn dò:
+	　　She kissed Percy on the cheek and he left. Then she turned to the twins. 
+135. ĐỘ TƯƠNG ĐƯƠNG: 0.67
+	Ron lại la lên. Nó cao gần bằng hai ông anh sinh đôi và cái mũi vẫn còn hồng hồng vì bị mẹ nó vò lúc nãy.
+	　　"Shut up," said Ron again. He was almost as tall as the twins already and his nose was still pink where his mother had rubbed it. 
+136. ĐỘ TƯƠNG ĐƯƠNG: 0.69
+	- A, má đoán thử coi, đoán thử hồi nãy tụi con gặp ai trên xe lửa coi?
+	　　"Hey, Mom, guess what? Guess who we just met on the train?" 
+137. ĐỘ TƯƠNG ĐƯƠNG: 0.73
+	- Harry Potter.
+	　　"Harry Potter!" 
+138. ĐỘ TƯƠNG ĐƯƠNG: 0.72
+	- Harry Potter.
+	　　The Harry Potter?" 
+139. ĐỘ TƯƠNG ĐƯƠNG: 0.79
+	Harry nghe giọng đứa con gái nhỏ:
+	　　Harry heard the little girl's voice. 
+140. ĐỘ TƯƠNG ĐƯƠNG: 0.82
+	Một tiếng còi tàu vang lên.
+	　　A whistle sounded. 
+141. ĐỘ TƯƠNG ĐƯƠNG: 0.66
+	Bà mẹ hối, ba đứa con trai vội trèo lên toa xe. Chúng nhoài người ra ngoài cửa sổ cho mẹ hôn từ giã, và đứa con gái nhỏ nhất oà ra khóc.
+	　　"Hurry up!" their mother said, and the three boys clambered onto the train. They leaned out of the window for her to kiss them good-bye, and their younger sister began to cry. 
+142. ĐỘ TƯƠNG ĐƯƠNG: 0.67
+	- George!
+	　　"George!" 
+143. ĐỘ TƯƠNG ĐƯƠNG: 0.81
+	Harry lắc đầu, thằng bé ngồi xuống. Nó liếc Harry rồi nhìn thật nhanh ra ngoài cửa sổ, giả đò như không hề nhìn Harry. Trên mủi nó vẫn còn một vết đen.
+	　　Harry shook his head and the boy sat down. He glanced at Harry and then looked quickly out of the window, pretending he hadn't looked. Harry saw he still had a black mark on his nose. 
+144. ĐỘ TƯƠNG ĐƯƠNG: 0.72
+	- Ê, Ron.
+	　　"Hey, Ron." 
+145. ĐỘ TƯƠNG ĐƯƠNG: 0.71
+	- Harry hồi nãy tụi này quên giới thiệu. Tụi này là Fred và George Weasley. Còn đây là Ron, em của tụi này. Hen gặp lại sau nha. Chào!
+	　　"Harry," said the other twin, "did we introduce ourselves? Fred and George Weasley. And this is Ron, our brother. See you later, then. 
+146. ĐỘ TƯƠNG ĐƯƠNG: 0.67
+	Harry gật đầu.
+	　　Harry groaned. 
+147. ĐỘ TƯƠNG ĐƯƠNG: 0.9
+	Harry gật đầu.
+	　　Harry nodded. 
+148. ĐỘ TƯƠNG ĐƯƠNG: 0.92
+	Nó chỉ lên trán Harry.
+	　　He pointed at Harry's forehead. 
+149. ĐỘ TƯƠNG ĐƯƠNG: 0.68
+	- Mình nghe nói bồ sống với dân Muggle hả? Họ ra làm sao?
+	　　"I heard you went to live with Muggles," said Ron. "What are they like?" 
+150. ĐỘ TƯƠNG ĐƯƠNG: 0.68
+	- … mãi cho đến lúc bác Hagrid kể cho tôi nghe, tôi mới biết mình có nòi phù thủy, mới biết về ba má tôi, về lão Voldemort…
+	　　"... and until Hagrid told me, I didn't know anything about be ing a wizard or about my parents or Voldemort" 
+151. ĐỘ TƯƠNG ĐƯƠNG: 0.82
+	- Chuyện gì vậy?
+	　　"What's going on?" 
+152. ĐỘ TƯƠNG ĐƯƠNG: 0.7
+	- Vậy ra đây là cụ Dumbledore!
+	　　"So this is Dumbledore!" said Harry. 
+153. ĐỘ TƯƠNG ĐƯƠNG: 0.71
+	Ron nhón một viên kẹo hình hột đậu xanh, nhìn ngắm cẩn thận, rồi phun vô một góc.
+	　　Ron picked up a green bean, looked at it carefully, and bit into a corner. 
+154. ĐỘ TƯƠNG ĐƯƠNG: 0.7
+	Con chuột vẫn ngủ li bì trên đùi Ron. Ron nhìn nó chán ghét.
+	　　The rat was still snoozing on Ron's lap. 
+155. ĐỘ TƯƠNG ĐƯƠNG: 0.89
+	Nó tằng hắng đọc thần chú:
+	　　He cleared his throat. 
+156. ĐỘ TƯƠNG ĐƯƠNG: 0.8
+	Ron vẫy cây đũa phép, nhưng không có gì xảy ra. Con Scabbers vẫn màu xám ngoét và tiếp tục ngủ li bì.
+	　　He waved his wand, but nothing happened. Scabbers stayed gray and fast asleep. 
+157. ĐỘ TƯƠNG ĐƯƠNG: 0.67
+	Harry nói:
+	　　Harry stared. 
+158. ĐỘ TƯƠNG ĐƯƠNG: 0.67
+	Harry nói:
+	　　Harry stared. 
+159. ĐỘ TƯƠNG ĐƯƠNG: 0.69
+	Nó giơ tay để bắt tay Harry, nhưng Harry không thèm nắm lấy. Harry chỉ lạnh nhạt nói:
+	　　He held out his hand to shake Harry's, but Harry didn't take it. 
+160. ĐỘ TƯƠNG ĐƯƠNG: 0.8
+	Ron trừng mắt nhìn theo cô bé khi cô đi ra ngoài. Harry thò đầu ra ngoài cửa sổ. Trời đang tối dần. Nó có thể nhìn thấy núi rừng dưới bầu trời tím thẩm. Đoàn tàu lửa dường như đang chạy chậm lại.
+	　　Ron glared at her as she left. Harry peered out of the window. It was getting dark. He could see mountains and forests under a deep purple sky. The train did seem to be slowing down. 
+161. ĐỘ TƯƠNG ĐƯƠNG: 0.74
+	Gương mặt lông lá của lão Hagrid hớn hở trên biển đầu người.
+	　　Hagrid's big hairy face beamed over the sea of heads. 
+162. ĐỘ TƯƠNG ĐƯƠNG: 0.69
+	Neville mừng rỡ giơ tay ra:
+	　　Neville shook his head. 
+163. ĐỘ TƯƠNG ĐƯƠNG: 0.67
+	- Các học sinh năm thứ nhất đây thưa giáo sư McGonagall.
+	　　"Fancy seeing you here, Professor McGonagall." 
+164. ĐỘ TƯƠNG ĐƯƠNG: 0.68
+	- Các học sinh năm thứ nhất đây thưa giáo sư McGonagall.
+	　　"The firs' years, Professor McGonagall," said Hagrid. 
+165. ĐỘ TƯƠNG ĐƯƠNG: 0.73
+	Giáo sư McGonagall cất lời:
+	　　Professor McGonagall sniffed angrily. 
+166. ĐỘ TƯƠNG ĐƯƠNG: 0.86
+	Giáo sư McGonagall cất lời:
+	　　Professor McGonagall 
+167. ĐỘ TƯƠNG ĐƯƠNG: 0.82
+	Bà giáo sư McGonagall nói.
+	　　Professor McGonagall 
+168. ĐỘ TƯƠNG ĐƯƠNG: 0.71
+	Bà giáo sư McGonagall nói.
+	　　"Jordan!" growled Professor McGonagall. 
+169. ĐỘ TƯƠNG ĐƯƠNG: 0.76
+	Giáo sư McGonagall bước tới trước với một cuộn giấy da dày trong tay:
+	　　Professor McGonagall now stepped forward holding a long roll of parchment. 
+170. ĐỘ TƯƠNG ĐƯƠNG: 0.77
+	Những người ngồi ở dãy bàn bên phải hoang hô và vỗ tay chào mừng. Hannah đi đến ngồi ở dảy bàn của nhà Hufflepuff. Harry thấy con ma thầy tu béo vui vẻ vẫy tay với Hannah.
+	　　The table on the right cheered and clapped as Hannah went to sit down at the Hufflepuff table. Harry saw the ghost of the Fat Friar waving merrily at her. 
+171. ĐỘ TƯƠNG ĐƯƠNG: 0.79
+	- Harry Potter!
+	　　"Harry Potter!" 
+172. ĐỘ TƯƠNG ĐƯƠNG: 0.72
+	- Harry Potter!
+	　　The Harry Potter?" 
+173. ĐỘ TƯƠNG ĐƯƠNG: 0.67
+	Điều cuối cùng mà Harry nhìn thấy trước khi chiếc nón sụp xuống che mất đôi mắt cảu nó, là cả sảnh đường đầy nhóc người đều đang hướng mắt nhìn về nó. Harry chờ đợi.
+	　　The last thing Harry saw before the hat dropped over his eyes was the hall full of people craning to get a good look at him. Next second he was looking at the black inside of the hat. He waited. 
+174. ĐỘ TƯƠNG ĐƯƠNG: 0.71
+	Cụ ngồi xuống. Moi người vỗ tay hoan hô. Harry không biết có nên cười hay không. Nó ngờ ngợ hỏi Percy:
+	　　He sat back down. Everybody clapped and cheered. Harry didn't know whether to laugh or not. 
+175. ĐỘ TƯƠNG ĐƯƠNG: 0.74
+	- Còn bồ thì sao hả Neville?
+	　　"What about you, Neville?" said Ron. 
+176. ĐỘ TƯƠNG ĐƯƠNG: 0.65
+	- Còn bồ thì sao hả Neville?
+	　　"What about you?" 
+177. ĐỘ TƯƠNG ĐƯƠNG: 0.68
+	Harry xoa tay lên trán. Percy hỏi:
+	　　Harry was rubbing his forehead. 
+178. ĐỘ TƯƠNG ĐƯƠNG: 0.82
+	- Chuyện gì vậy?
+	　　"What's going on?" 
+179. ĐỘ TƯƠNG ĐƯƠNG: 0.66
+	Harry quan sát giáo sư Snape một lúc, nhưng ông ta không thèm nhìn lại Harry ấy một cái nào nữa.
+	　　Harry watched Snape for a while, but Snape didn't look at him again. 
+180. ĐỘ TƯƠNG ĐƯƠNG: 0.77
+	Hogwarts, Hogwarts, Hogwarts
+	　　"Hogwarts, Hogwarts, Hoggy Warty Hogwarts, 
+181. ĐỘ TƯƠNG ĐƯƠNG: 0.76
+	Hãy dạy chúng tôi điều gì đáng biết
+	　　So teach us things worth knowing, 
+182. ĐỘ TƯƠNG ĐƯƠNG: 0.78
+	- Anh có muốn tôi đến gặp nam tước đẫm máu không?
+	　　"Do you want me to go to the Bloody Baron?" 
+183. ĐỘ TƯƠNG ĐƯƠNG: 0.73
+	Peeves thè lưỡi ra rồi biến mất, thả rơi đám gậy xuống đầu Neville. Bọn trẻ nghe tiếng hắn lượn vòng, khua áo giáp xủng xoẻng khi bỏ đi.
+	　　Peeves stuck out his tongue and vanished, dropping the walking sticks on Neville's head. They heard him zooming away, rattling coats of armor as he passed. 
+184. ĐỘ TƯƠNG ĐƯƠNG: 0.74
+	Cuối hành lang có treo bức chân dung một người đàn bà mập ú mặc áo lụa hồng. Bà hỏi:
+	　　At the very end of the corridor hung a portrait of a very fat woman in a pink silk dress. 
+185. ĐỘ TƯƠNG ĐƯƠNG: 0.66
+	- Kế bên thằng tóc đỏ cao ngòng đó.
+	　　"Next to the tall kid with the red hair." 
+186. ĐỘ TƯƠNG ĐƯƠNG: 0.7
+	- Đeo kiếng phải không?
+	　　"Wearing the glasses?" 
+187. ĐỘ TƯƠNG ĐƯƠNG: 0.67
+	- Phải chi giáo sư McGonagall cũng thiên vị tụi mình hả?
+	　　Professor McGonagall sniffed angrily. 
+188. ĐỘ TƯƠNG ĐƯƠNG: 0.69
+	- Phải chi giáo sư McGonagall cũng thiên vị tụi mình hả?
+	　　Professor McGonagall 
+189. ĐỘ TƯƠNG ĐƯƠNG: 0.8
+	Harry thân mến!
+	　　Dear Harry, 
+190. ĐỘ TƯƠNG ĐƯƠNG: 0.8
+	Hagrid
+	　　Hagrid 
+191. ĐỘ TƯƠNG ĐƯƠNG: 0.8
+	Hagrid
+	　　Hagrid 
+192. ĐỘ TƯƠNG ĐƯƠNG: 0.67
+	Hagrid
+	　　"Hagrid!" 
+193. ĐỘ TƯƠNG ĐƯƠNG: 0.68
+	Thầy Snape cũng giống thầy Flitwick, bắt đầu buổi học bằng cuộc điểm danh. Và cũng như thầy Flitwick, ông dừng lại ở cái tên Harry Potter.
+	　　Snape, like Flitwick, started the class by taking the roll call, and like Flitwick, he paused at Harry's name. 
+194. ĐỘ TƯƠNG ĐƯƠNG: 0.68
+	Ông không đếm xỉa đến bàn tay giơ cao của Hermione.
+	　　He ignored Hermione's hand. 
+195. ĐỘ TƯƠNG ĐƯƠNG: 0.65
+	Tới nước này thì Hermione đứng hẳn dậy, cánh tay giơ cao của nó xém đụng trần hầm. Harry lặng lẽ nói:
+	　　At this, Hermione stood up, her hand stretching toward the dungeon ceiling. 
+196. ĐỘ TƯƠNG ĐƯƠNG: 0.65
+	- Con không biết. Con nghĩ chắc là Hermione biết, sao thầy không thử gọi bạn ấy?
+	　　"I don't know," said Harry quietly. "I think Hermione does, though, why don't you try her?" 
+197. ĐỘ TƯƠNG ĐƯƠNG: 0.86
+	Điều này thì quá bất công nên Harry há miệng toan cãi lại, nhưng Ron đã đá giò nó, thì thào:
+	　　This was so unfair that Harry opened his mouth to argue, but Ron kicked him behind their cauldron. 
+198. ĐỘ TƯƠNG ĐƯƠNG: 0.7
+	Cả Harry và Ron đều khoái chí khi nghe lão Hagrid gọi ông giám thị Flich là lão già đó.
+	　　Harry and Ron were delighted to hear Hagrid call Fitch "that old git." 
+199. ĐỘ TƯƠNG ĐƯƠNG: 0.7
+	Harry kể cho lão Hagrid nghe vê buổi học với thầy Snape. Lão Hagrid cũng như Ron, bão Harry đừng lo lắng về chuyện đó, thầy Snape không ưa bất kỳ đứa học trò nào, chứ không riêng gì Harry.
+	　　Harry told Hagrid about Snape's lesson. Hagrid, like Ron, told Harry not to worry about it, that Snape liked hardly any of the students. 
+200. ĐỘ TƯƠNG ĐƯƠNG: 0.67
+	Harry sực nhớ lại lúc trên tàu lửa, Ron có nói ai đó toan cướp nhà băng Gringotts, nhưng không nói vào ngày nào.
+	　　Harry remembered Ron telling him on the train that someone had tried to rob Gringotts, but Ron hadn't mentioned the date. 
+201. ĐỘ TƯƠNG ĐƯƠNG: 0.68
+	Bà Hooch cúi xuống bên Neville, gương mặt bà cũng trắng bệch như mặt thằng bé. Harry nghe bà lẩm bẩm:
+	　　Madam Hooch was bending over Neville, her face as white as his. 
+202. ĐỘ TƯƠNG ĐƯƠNG: 0.71
+	Bà quay lại nói với cả lớp:
+	　　She turned to the rest of the class. 
+203. ĐỘ TƯƠNG ĐƯƠNG: 0.68
+	Những đứa khác trong nhà Slytherin cười vang hưởng ứng.
+	　　The other Slytherins joined in. 
+204. ĐỘ TƯƠNG ĐƯƠNG: 0.79
+	- HARRY POTTER!
+	　　"HARRY POTTER!" 
+205. ĐỘ TƯƠNG ĐƯƠNG: 0.73
+	- Đủ rồi, trò Weasley! Potter, đi theo ta ngay.
+	　　"That's enough, Mr. Weasley. Potter, follow me, now." 
+206. ĐỘ TƯƠNG ĐƯƠNG: 0.88
+	Giáo sư McGonagall dừng bước trước một phòng học. Bà mở cửa và thò đầu vào trong.
+	　　Professor McGonagall stopped outside a classroom. She opened the door and poked her head inside. 
+207. ĐỘ TƯƠNG ĐƯƠNG: 0.73
+	Giáo sư McGonagall bảo:
+	　　Professor McGonagall sniffed angrily. 
+208. ĐỘ TƯƠNG ĐƯƠNG: 0.86
+	Giáo sư McGonagall bảo:
+	　　Professor McGonagall 
+209. ĐỘ TƯƠNG ĐƯƠNG: 0.69
+	- Potter, đây là Oliver Wood. Wood, cô đã phát hiện ra một Tầm thủ.
+	　　"Potter, this is Oliver Wood. Wood -- I've found you a Seeker." 
+210. ĐỘ TƯƠNG ĐƯƠNG: 0.72
+	Giáo sư McGonagall cười giòn giã:
+	　　Professor McGonagall sniffed angrily. 
+211. ĐỘ TƯƠNG ĐƯƠNG: 0.69
+	Giáo sư McGonagall cười giòn giã:
+	　　Professor McGonagall 
+212. ĐỘ TƯƠNG ĐƯƠNG: 0.78
+	Giáo sư McGonagall nói với Wood:
+	　　Professor McGonagall 
+213. ĐỘ TƯƠNG ĐƯƠNG: 0.66
+	Giáo sư McGonagall nói với Wood:
+	　　Professor McGonagall turned to Harry and Ron. 
+214. ĐỘ TƯƠNG ĐƯƠNG: 0.66
+	Giáo sư McGonagall giải thích:
+	　　Professor McGonagall sniffed angrily. 
+215. ĐỘ TƯƠNG ĐƯƠNG: 0.79
+	Giáo sư McGonagall giải thích:
+	　　Professor McGonagall 
+216. ĐỘ TƯƠNG ĐƯƠNG: 0.77
+	- Mình sẽ bắt đầu luyện tập vào tuần tới. Nhưng đừng nói cho ai biếtt nhe! Anh Wood muốn giữ bí mật.
+	　　"I start training next week," said Harry. "Only don't tell anyone, Wood wants to keep it a secret." 
+217. ĐỘ TƯƠNG ĐƯƠNG: 0.65
+	- Chén bữa cuối hả Potter? Chừng nào mày phải lên tàu quay về với tụi Muggle?
+	　　"Having a last meal, Potter? When are you getting the train back to the Muggles?" 
